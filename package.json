@@ -2,7 +2,7 @@
   "name": "Birthday Celebration Webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://binn2000.github.io/birthday-website",
+  "homepage": "https://binn2000.github.io/rose",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.3",
     "@radix-ui/react-alert-dialog": "^1.1.6",
